@@ -1,16 +1,17 @@
-### Hi there 👋
+```JavaScript
+const aboutMe = {
+  name: 'Vagner Cardoso',
+  age: '25 years old';
+  level: 'Junior',
+  tools: ['JavaScript ES6+', 'TypeScript', 'React', 'Node.js', 'MySQL', 'Docker'],
+  softSkills: [
+    'creativity',
+    'leadership',
+    'organization'
+  ]
+};
 
-<!--
-**kadraknb/kadraknb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+function contatcMe() {
+  return 'Linkedin: https://www.linkedin.com/in/vagner-cardos-santos/';
+}
+```
