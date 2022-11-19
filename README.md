@@ -2,7 +2,6 @@
 const aboutMe = {
   name: 'Vagner Cardoso',
   age: '25 years old';
-  level: 'Junior',
   tools: ['JavaScript ES6+', 'TypeScript', 'React', 'Node.js', 'MySQL', 'Docker'],
   softSkills: [
     'creativity',
