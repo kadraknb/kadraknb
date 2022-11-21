@@ -19,5 +19,5 @@ const aboutMe = {
 
 function contatcMe() {
   return 'Linkedin: https://www.linkedin.com/in/vagner-cardos-santos/';
-}
+};
 ```
