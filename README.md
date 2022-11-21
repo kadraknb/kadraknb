@@ -1,8 +1,15 @@
 ```JavaScript
 const aboutMe = {
   name: 'Vagner Cardoso',
-  age: '25 years old';
-  tools: ['JavaScript ES6+', 'TypeScript', 'React', 'Node.js', 'MySQL', 'Docker'],
+  age: '25 years old',
+  tools: {
+    linguagens: ['TypeScript',  'JavaScript'],
+    Node: ['express', 'dotenv', 'joi', 'JSON Web Token', 'módulo FS'],
+    React: ['Router', 'Redux', 'RTL', 'Bootstrap', 'DOM', 'HTML', 'CSS'],
+    SQL: ['MySQL2', 'Sequelize', 'ORM (Object-Relational Mapping)'],
+    Docker: ['Dockerfile', 'Compose'],
+    tests: ['Jest', 'Mocha', 'Chai', 'Sinon']
+  },
   softSkills: [
     'creativity',
     'leadership',
