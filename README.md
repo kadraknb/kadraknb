@@ -5,7 +5,7 @@ const aboutMe = {
   tools: {
     linguagens: [TypeScript,  JavaScript],
     Node: [Express, Dotenv, Joi, JSON_Web_Token, Módulo_FS],
-    React: [Router, Redux, RTL, Bootstrap, DOM, HTML, CSS],
+    React: [Router, Redux, Bootstrap, RTL, DOM, HTML, CSS],
     SQL: [MySQL2, Sequelize, ORM as ObjectRelationalMapping],
     Docker: [Dockerfile, Compose],
     tests: [Jest, Mocha, Chai, Sinon]
