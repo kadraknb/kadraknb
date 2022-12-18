@@ -23,6 +23,6 @@ const aboutMe = {
 };
 
 function contatcMe() {
-  return 'https://www.linkedin.com/in/vagner-cardos-santos/overlay/contact-info/';
+  return 'https://lnkd.in/dv6uNVgy';
 };
 ```
