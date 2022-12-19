@@ -26,3 +26,7 @@ function contatcMe() {
   return 'https://lnkd.in/dv6uNVgy';
 };
 ```
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kadraknb&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kadraknb&theme=github_dark) |
+| :-: | :-: |
+
