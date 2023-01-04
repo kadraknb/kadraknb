@@ -9,8 +9,8 @@ const aboutMe = {
   age: '25 years old',
   tools: {
     linguagens: [TypeScript, JavaScript],
-    Front-end: [React, Router, Redux, Bootstrap, DOM, HTML, CSS],
-    Node: [Express, Dotenv, Joi, JSON_Web_Token, Módulo_FS],
+    Front-end: [React, Vue, Redux, Bootstrap, DOM, HTML, CSS],
+    Node: [Express, Axios, Joi, JSON_Web_Token, Módulo_FS],
     Databases: { SQL: [MySQL, Sequelize], NoSQL: [MongoDB] },
     Docker: [Dockerfile, Compose],
     tests: [Jest, RTL, Mocha, Chai, Sinon]
