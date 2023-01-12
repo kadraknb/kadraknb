@@ -10,7 +10,7 @@ const aboutMe = {
   tools: {
     linguagens: [TypeScript, JavaScript],
     Front-end: [React, Vue, Redux, Bootstrap, Axios, DOM, HTML, CSS],
-    Node: [Express, SOLID, Joi, JSON_Web_Token, Módulo_FS],
+    Node: [Express, SOLID, Joi, JWT, Módulo_FS],
     Databases: { MySQL: Sequelize, NoSQL: MongoDB },
     Docker: [Dockerfile, Compose],
     tests: [Jest, RTL, Mocha, Chai, Sinon]
