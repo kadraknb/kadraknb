@@ -23,7 +23,13 @@ const aboutMe = {
 };
 
 function contatcMe() {
-  return 'https://lnkd.in/dv6uNVgy';
+  const contacts = {
+    email: 'vagner_cardoso_s@outlook.com',
+    portfolio: 'https://kadraknb.github.io',
+    linkedin: 'https://lnkd.in/dv6uNVgy',
+  }
+  
+  return contacts;
 };
 ```
 
