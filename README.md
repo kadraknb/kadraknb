@@ -8,12 +8,12 @@ const aboutMe = {
   name: 'Vagner Cardoso',
   age: '25 years old',
   tools: {
-    linguagens: [TypeScript, JavaScript],
+    Linguagens: [TypeScript, JavaScript],
     FrontEnd: [React, Vue, Redux, Bootstrap, DOM, HTML, CSS],
-    NodeJs: [Express, SOLID, Joi, JWT, FS],
+    NodeJs: [Express, Joi, JWT, FS],
     Databases: [MySQL, NoSQL],
     Docker: [Dockerfile, Compose],
-    tests: [Jest, RTL, Mocha, Chai, Sinon]
+    Tests: [Jest, RTL, Mocha, Chai, Sinon]
   },
   softSkills: [
     'creativity',
