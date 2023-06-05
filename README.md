@@ -32,7 +32,7 @@ function contatcMe() {
   return contacts;
 };
 ```
-
+<!--
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kadraknb&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kadraknb&theme=github_dark) |
 | :-: | :-: |
-
+-->
