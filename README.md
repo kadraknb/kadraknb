@@ -12,6 +12,7 @@ const aboutMe = {
     FrontEnd: [React, Vue, Redux, Bootstrap, DOM, HTML, CSS],
     NodeJs: [Express, Joi, JWT, FS],
     Databases: [MySQL, NoSQL],
+    ORM: [Sequelize, Mongoose],
     Docker: [Dockerfile, Compose],
     Tests: [Jest, RTL, Mocha, Chai, Sinon]
   },
