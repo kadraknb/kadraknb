@@ -8,7 +8,7 @@ const aboutMe = {
   name: 'Vagner Cardoso',
   age: '25 years old',
   tools: {
-    Linguagens: [TypeScript, JavaScript, Python],
+    Linguagens: [TypeScript, JavaScript, Python, Bash, SQL],
     FrontEnd: [React, Vue, Redux, Bootstrap, DOM, HTML, CSS],
     NodeJs: [Express, Joi, JWT, FS],
     Databases: [MySQL, NoSQL],
