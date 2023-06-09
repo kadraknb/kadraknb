@@ -9,24 +9,17 @@ const aboutMe = {
   age: '25 years old',
   tools: {
     Linguagens: [TypeScript, JavaScript, Python, Bash, SQL],
-    FrontEnd: [React, Vue, Redux, Bootstrap, DOM, HTML, CSS],
+    FrontEnd: [React, Vue, HTML, CSS],
     NodeJs: [Express, Joi, JWT, FS],
     Databases: [MySQL, NoSQL],
-    ORM: [Sequelize, Mongoose],
     Docker: [Dockerfile, Compose],
     Tests: [Jest, RTL, Mocha, Chai, Sinon]
-  },
-  softSkills: [
-    'creativity',
-    'leadership',
-    'organization'
-  ]
+  }
 };
 
 function contatcMe() {
   const contacts = {
     email: 'vagner_cardoso_s@outlook.com',
-    portfolio: 'https://kadraknb.github.io',
     linkedin: 'https://lnkd.in/dv6uNVgy'
   }
   
