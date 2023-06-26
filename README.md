@@ -6,7 +6,7 @@
 ```JavaScript
 const aboutMe = {
   name: 'Vagner Cardoso',
-  age: '25 years old',
+  age: '26 years old',
   tools: {
     Linguagens: [TypeScript, JavaScript, Python, Bash, SQL],
     FrontEnd: [React, Vue, HTML, CSS],
@@ -30,3 +30,11 @@ function contatcMe() {
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kadraknb&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kadraknb&theme=github_dark) |
 | :-: | :-: |
 -->
+
+
+
+<div align="center">
+  
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kadraknb&theme=github_dark) 
+</div>
+
