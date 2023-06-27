@@ -32,9 +32,9 @@ function contatcMe() {
 -->
 
 
-
+<!--
 <div align="center">
   
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kadraknb&theme=github_dark) 
 </div>
-
+-->
